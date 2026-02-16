@@ -20,6 +20,8 @@ Medical aid
 
 Emergency support requirements
 
+---
+
 Zone Classification
 Disasters are categorised into zones according to priority:
 
@@ -29,11 +31,15 @@ Orange Zone – Medium priority disasters
 
 Green Zone – Low-priority disasters
 
+---
+
 Team Assignment
 Disaster management teams are automatically allocated based on the severity of the situation.
 
 Priority-Based Sorting (DSA Implementation)
 The system uses basic sorting algorithms to organize and display disaster zones according to their priority levels.
+
+---
 
 Technologies Used
 
