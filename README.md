@@ -2,6 +2,8 @@ Disaster Management Website (Frontend-Based)
 
 A simple disaster management web application that simulates emergency response planning using basic Data Structures and Algorithms (DSA) concepts. This project does not use any backend or database — all operations are handled on the frontend.
 
+---
+
 Features
 
 Disaster Input System
@@ -19,13 +21,13 @@ Medical aid
 Emergency support requirements
 
 Zone Classification
-Disasters are categorized into zones according to priority:
+Disasters are categorised into zones according to priority:
 
-Red Zone – High priority disasters
+Red Zone – High-priority disasters
 
 Orange Zone – Medium priority disasters
 
-Green Zone – Low priority disasters
+Green Zone – Low-priority disasters
 
 Team Assignment
 Disaster management teams are automatically allocated based on the severity of the situation.
